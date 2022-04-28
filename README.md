@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodePen Server-CC2927?style=for-the-badge&logo=CodePen Server&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodePen-CC2927?style=for-the-badge&logo=CodePen&logoColor=white"/>
 https://codepen.io/your-work
 <!--<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/> -->
 <!--<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
