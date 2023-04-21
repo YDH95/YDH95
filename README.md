@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
 <a href="https://codepen.io/ydh95" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/codesandbox-151515?style=for-the-badge&logo=codesandbox IDE&logoColor=white"/>
+<img src="https://img.shields.io/badge/codesandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white"/>
 
 <!-- ### [https://codepen.io/your-work](https://codepen.io/ydh95) -->
 <!--<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=white" style="height: auto; margin-left: 10px; margin-right: 10px;"/> -->
